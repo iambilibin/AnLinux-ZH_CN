@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "exa.lnx.a",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 650,
+      "versionName": "6.50 Stable",
+      "outputFile": "app-release.apk"
+    }
+  ],
+  "elementType": "File"
+}
