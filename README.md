@@ -1,7 +1,7 @@
 这里是主程序使用的库。如果你在找程序中使用的图片或脚本，请点击[这里](https://github.com/EXALAB/AnLinux-Resources)
 
 # AnLinux
-AnLinux允许你在安卓系统中免root运行Linux系统。感谢[Termux](https://github.com/termux/termux-app)和[PRoot](https://github.com/proot-me/PRoot)！是他们让这个软件成为了可以使用的成品。
+AnLinux允许你在安卓系统中免root运行Linux系统。感谢[Termux](https://github.com/termux/termux-app)和[PRoot](https://github.com/proot-me/PRoot)！是它们让这些设想成为了可以使用的成品。
 
 在Github上下载apk(原版)
 
@@ -19,7 +19,7 @@ AnLinux允许你在安卓系统中免root运行Linux系统。感谢[Termux](http
 
 ## 支持的桌面环境
 
-我们目前支持5种桌面环境，只有部分发行版可用。
+我们目前支持5种桌面环境，只有部分系统可用。
 
 支持的桌面环境：
 
@@ -33,7 +33,7 @@ AnLinux允许你在安卓系统中免root运行Linux系统。感谢[Termux](http
 
 ## 窗口管理器
 
-我们目前支持2种窗口管理器，而且只有[Ubuntu](https://www.ubuntu.com/)、[Debian](https://www.debian.org/)、[Kali](https://www.kali.org/)、[Parrot Security OS](https://www.parrotsec.org/)、[Fedora](https://getfedora.org/)的发行版受支持。
+我们目前支持2种窗口管理器，而且只有[Ubuntu](https://www.ubuntu.com/)、[Debian](https://www.debian.org/)、[Kali](https://www.kali.org/)、[Parrot Security OS](https://www.parrotsec.org/)、[Fedora](https://getfedora.org/)受支持。
 
 支持的窗口管理器：
 
@@ -57,7 +57,7 @@ AnLinux允许你在安卓系统中免root运行Linux系统。感谢[Termux](http
 
 ## 注意
 
-1. 这个应用需要[Termux](https://github.com/termux/termux-app)的支持，你可以从Google Play（中国大陆不能使用）或者[F-Droid](https://f-droid.org)下载它。
+1. 这个应用需要[Termux](https://github.com/termux/termux-app)的支持，你可以[F-Droid](https://f-droid.org)下载它。
 
 2. 设备需求：
 
@@ -67,9 +67,9 @@ AnLinux允许你在安卓系统中免root运行Linux系统。感谢[Termux](http
 
 3. 目前支持的发行版：
 
-   [Ubuntu](https://www.ubuntu.com/), [Debian](https://www.debian.org/), [Kali](https://www.kali.org/), [Kali Nethunter](https://www.kali.org/kali-linux-nethunter/), [Parrot Security OS](https://www.parrotsec.org/), [BackBox](https://www.backbox.org/), [Fedora](https://getfedora.org/), [CentOS](https://www.centos.org/), [openSUSE Leap](https://www.opensuse.org/), [openSUSE Tumbleweed](https://www.opensuse.org/), [Arch Linux](https://www.archlinux.org/), [BlackArch](https://blackarch.org/), [Alpine](https://alpinelinux.org/), [Void](https://voidlinux.org/)
+[Ubuntu](https://www.ubuntu.com/), [Debian](https://www.debian.org/), [Kali](https://www.kali.org/), [Kali Nethunter](https://www.kali.org/kali-linux-nethunter/), [Parrot Security OS](https://www.parrotsec.org/), [BackBox](https://www.backbox.org/), [Fedora](https://getfedora.org/), [CentOS](https://www.centos.org/), [openSUSE Leap](https://www.opensuse.org/), [openSUSE Tumbleweed](https://www.opensuse.org/), [Arch Linux](https://www.archlinux.org/), [BlackArch](https://blackarch.org/), [Alpine](https://alpinelinux.org/), [Void](https://voidlinux.org/)
 
-4. 有任何问题或建议，请在Github上发issue。
+4. 如有关于软件BUG的反馈或建议，请在[原版软件](https://github.com/EXALAB/AnLinux-App)的Github上发issue。
 
 5. 由于找不到/dev/tty0的错误，窗口管理器已经被移除。
 
