@@ -1,7 +1,9 @@
-这里是主程序使用的库。如果你在找程序中使用的图片或脚本，请点击[这里](https://github.com/EXALAB/AnLinux-Resources)
+这里是主程序使用的库。如果你在找程序中使用的图片或脚本，请点击[这里](https://github.com/EXALAB/AnLinux-Resources)（原版库，未翻译）
 
 # AnLinux
 AnLinux允许你在安卓系统中免root运行Linux系统。感谢[Termux](https://github.com/termux/termux-app)和[PRoot](https://github.com/proot-me/PRoot)！是它们让这些设想成为了可以使用的成品。
+
+注意：软件还在翻译中，下面的链接是原版的下载链接。
 
 在Github上下载apk(原版)
 
