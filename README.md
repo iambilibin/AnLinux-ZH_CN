@@ -69,7 +69,7 @@ AnLinux可以让您在没有Root安卓系统的情况下通过Termux安装Linux�
 
 3. 目前支持的发行版：
 
-[Ubuntu](https://www.ubuntu.com/), [Debian](https://www.debian.org/), [Kali](https://www.kali.org/), [Kali Nethunter](https://www.kali.org/kali-linux-nethunter/), [Parrot Security OS](https://www.parrotsec.org/), [BackBox](https://www.backbox.org/), [Fedora](https://getfedora.org/), [CentOS](https://www.centos.org/), [openSUSE Leap](https://www.opensuse.org/), [openSUSE Tumbleweed](https://www.opensuse.org/), [Arch Linux](https://www.archlinux.org/), [BlackArch](https://blackarch.org/), [Alpine](https://alpinelinux.org/), [Void](https://voidlinux.org/)
+   [Ubuntu](https://www.ubuntu.com/)         [Debian](https://www.debian.org/)         [Kali](https://www.kali.org/)                 [Kali Nethunter](https://www.kali.org/kali-linux-nethunter/), [Parrot Security OS](https://www.parrotsec.org/)             [BackBox](https://www.backbox.org/)       [Fedora](https://getfedora.org/)    [CentOS](https://www.centos.org/)      [openSUSE Leap](https://www.opensuse.org/) [openSUSE Tumbleweed](https://www.opensuse.org/)                 [Arch Linux](https://www.archlinux.org/)        [BlackArch](https://blackarch.org/)    [Alpine](https://alpinelinux.org/)     [Void](https://voidlinux.org/)
 
 4. 如有关于软件BUG的反馈或建议，请在[原版软件](https://github.com/EXALAB/AnLinux-App)的Github上发issue。
 
