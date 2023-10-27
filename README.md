@@ -1,4 +1,4 @@
-https://github.com/iambilibin/AnLinux-ZH_CN/commit/dc8f3054b0896c940e664257d90c3fd04daeda69这里是主程序使用的库。如果你在找程序中使用的图片或脚本，请点击[这里](https://github.com/EXALAB/AnLinux-Resources)（原版库，未翻译）
+https://github.com/iambilibin/AnLinux-ZH_CN/commit/dc8f3054b0896c940e664257d90c3fd04daeda69 这里是主程序使用的库。如果你在找程序中使用的图片或脚本，请点击[这里](https://github.com/EXALAB/AnLinux-Resources)（原版库，未翻译）
 
 # AnLinux
 AnLinux可以让您在没有Root安卓系统的情况下通过Termux安装Linux。感谢[Termux](https://github.com/termux/termux-app)和[PRoot](https://github.com/proot-me/PRoot)！是它们让这些设想成为了可以使用的成品。
